@@ -1,0 +1,12 @@
+version: "1"
+services: 
+  app:
+    image: nodeimage
+    container_name: nodeserv
+    build: ./
+    restart: always
+    ports: 
+    - "8000:8000"
+    environment:
+      - HOST = 0.0.0.0
+      - PORT= 8000
