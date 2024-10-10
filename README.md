@@ -1,4 +1,4 @@
-# asdeporte-pruebas
+# node-postgres-express-sequelize-todo
 
 ## Description
 Building simple todo application with React, Node, Express, and Postgres and using Sequelize as an ORM. Application was built following tutorial [here](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize)
