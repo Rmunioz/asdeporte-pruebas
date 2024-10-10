@@ -1,5 +1,5 @@
 {
-  "name": "asdeporte-pruebas",
+  "name": "node-postgres-express-sequelize-todo",
   "version": "1.0.0",
   "description": "Building simple todo application with React, Node, Express, and Postgres and using Sequelize as an ORM",
   "main": "index.js",

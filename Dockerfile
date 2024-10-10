@@ -2,7 +2,7 @@
 FROM node:18-alpine
 
 # The /app directory should act as the main application directory
-WORKDIR /asdeporte-pruebas
+WORKDIR /node-postgres-express-sequelize-todo
 
 # Copy the app package and package-lock.json file
 COPY package*.json ./
